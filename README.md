@@ -12,3 +12,5 @@ The .sh file is the shell script to start the GazeboPlugin and the world model.
 The .fig file shows the results for the simulation of 2 TurtleBots.
 
 It is important to mention that the implementation is inspired from the Mathworks website where they demonstrated the Co-Simulation for a Pioneer robot. The implementation was then extended to include 2 TurtleBots as well as to include the world model for the TurtleBots. Moreover, it was desired to show the capability of the Co-Simulation between Simulink and Gazebo and to optimize the controller parameters to work on the TurtleBots.
+
+A video is included showing the results of the implementation.
